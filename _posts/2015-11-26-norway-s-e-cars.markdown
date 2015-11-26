@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Norway's E-Cars
 layout: post
 ---
