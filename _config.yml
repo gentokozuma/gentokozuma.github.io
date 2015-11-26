@@ -1,4 +1,4 @@
-excerpt_separator: """
+excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://gentokozuma.github.io
@@ -6,3 +6,4 @@ title: mainsite
 author: Gento Kozuma
 description: Main site for all blogs by gento
 paginate: 5
+google_analystics:
