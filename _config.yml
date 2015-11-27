@@ -2,8 +2,8 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://gentokozuma.github.io
-title: mainsite
+title: Welcome!
 author: Gento Kozuma
-description: Main site for all blogs by gento
+description: and check out my blogs
 paginate: 5
 google_analystics:
