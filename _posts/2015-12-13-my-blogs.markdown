@@ -1,0 +1,13 @@
+---
+
+title: My Blogs
+layout: post
+---
+Hello and thank you for your interest in my blogs. Currently, I have two blogs and a YouTube page: [newspalette](http://gentokozuma.github.io/newspalette/), [Americano Red](http://americanored.tumblr.com/), and [GK Translation](https://www.youtube.com/channel/UC9KzXZv3YHhV_wkXb9UFsFg).
+
+[newspalette](http://gentokozuma.github.io/newspalette/) is a blog updated daily with popular news topics. These news topics are summarized for easy consumption and assorted with terrible drawings that I try to get creative with to get my point across. e.g.
+<img src="https://cloud.githubusercontent.com/assets/14352705/11426595/d4b8b79a-9422-11e5-95db-c52d7363ca06.png" alt="Drawing" style="width: 350px;"/>
+
+[Americano Red](http://americanored.tumblr.com/) is a tumblr blog. I try to post well educated memes, funny gifs, and beautiful artwork.
+
+[GK Translation](https://www.youtube.com/channel/UC9KzXZv3YHhV_wkXb9UFsFg) is a YouTube channel for motivated English speakers learning Japanese. The channel features English subtitles of Boku No Natsuyasumi (My Summer Vacation) gameplay.
